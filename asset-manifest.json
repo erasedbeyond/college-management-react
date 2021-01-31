@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/college-management-react/static/css/main.188d895d.chunk.css",
+    "main.js": "/college-management-react/static/js/main.de393ef6.chunk.js",
+    "main.js.map": "/college-management-react/static/js/main.de393ef6.chunk.js.map",
+    "runtime-main.js": "/college-management-react/static/js/runtime-main.b52c479d.js",
+    "runtime-main.js.map": "/college-management-react/static/js/runtime-main.b52c479d.js.map",
+    "static/js/2.79f988c5.chunk.js": "/college-management-react/static/js/2.79f988c5.chunk.js",
+    "static/js/2.79f988c5.chunk.js.map": "/college-management-react/static/js/2.79f988c5.chunk.js.map",
+    "index.html": "/college-management-react/index.html",
+    "static/css/main.188d895d.chunk.css.map": "/college-management-react/static/css/main.188d895d.chunk.css.map",
+    "static/js/2.79f988c5.chunk.js.LICENSE.txt": "/college-management-react/static/js/2.79f988c5.chunk.js.LICENSE.txt",
+    "static/media/home.b5626aba.svg": "/college-management-react/static/media/home.b5626aba.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b52c479d.js",
+    "static/js/2.79f988c5.chunk.js",
+    "static/css/main.188d895d.chunk.css",
+    "static/js/main.de393ef6.chunk.js"
+  ]
+}
