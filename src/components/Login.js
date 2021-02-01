@@ -33,7 +33,7 @@ class Login extends React.Component{
             method:'GET',
             // url:'http://localhost:8000/user/get-user',
             // url:'https://college-management-portal-app.herokuapp.com/user/get-user',
-            url:URL+'/user/get-user',
+            url:URL+'user/get-user',
 
             withCredentials:true
         }).then((res)=>{
